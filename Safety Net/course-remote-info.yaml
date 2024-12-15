@@ -1,0 +1,91 @@
+hyperskill_project:
+  id: 500
+  ide_files: https://hyperskill.org/api/projects/500/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Tue, 10 Dec 2024 22:12:42 UTC"
+stages:
+  - id: 2934
+    step: 51225
+    is_completed: true
+  - id: 2935
+    step: 51226
+    is_completed: true
+  - id: 2936
+    step: 51227
+    is_completed: true
+  - id: 2937
+    step: 51228
+    is_completed: true
+  - id: 2938
+    step: 51229
+    is_completed: true
+  - id: 2939
+    step: 51230
+    is_completed: true
+  - id: 2940
+    step: 51231
+    is_completed: true
+topics:
+  0:
+    - title: Starting with GitHub
+      theory_id: 4802
+    - title: Operating systems
+      theory_id: 9704
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: World Wide Web
+      theory_id: 6633
+    - title: "HTTP: HyperText Transfer Protocol"
+      theory_id: 6569
+    - title: HTTP URL
+      theory_id: 6740
+    - title: Starting with git
+      theory_id: 10894
+    - title: Local repository
+      theory_id: 10901
+    - title: Working with remote repository
+      theory_id: 12299
+  1:
+    - title: Fork and pull request
+      theory_id: 4803
+    - title: Local work
+      theory_id: 4856
+    - title: Git branches
+      theory_id: 11189
+    - title: Git internal structure
+      theory_id: 11461
+    - title: Git diff
+      theory_id: 28990
+    - title: Conventional Commits and commitlint
+      theory_id: 26292
+  2:
+    - title: Introduction to Gitflow
+      theory_id: 11445
+    - title: Gitflow auxiliary branches
+      theory_id: 11453
+    - title: Git rebase
+      theory_id: 11541
+    - title: Libraries
+      theory_id: 8504
+    - title: Semantic versioning
+      theory_id: 19244
+  3:
+    - title: Git undo/reset
+      theory_id: 29842
+    - title: Cherry-picking and checkout options
+      theory_id: 30351
+    - title: Editing the commit
+      theory_id: 10910
+  4:
+    - title: Introduction to software development models
+      theory_id: 11694
+    - title: Software lifecycle
+      theory_id: 11915
+  6:
+    - title: Publishing your project on GitHub
+      theory_id: 30945
+    - title: What are bugs
+      theory_id: 5504

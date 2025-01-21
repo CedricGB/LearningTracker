@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/500/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Tue, 10 Dec 2024 22:12:42 UTC"
+update_date: "Thu, 26 Dec 2024 20:10:31 UTC"
 stages:
   - id: 2934
     step: 51225
@@ -36,6 +36,8 @@ topics:
       theory_id: 8977
     - title: Parameters and options
       theory_id: 9746
+    - title: Units of information
+      theory_id: 6865
     - title: World Wide Web
       theory_id: 6633
     - title: "HTTP: HyperText Transfer Protocol"
@@ -44,10 +46,38 @@ topics:
       theory_id: 6740
     - title: Starting with git
       theory_id: 10894
+    - title: First program in bash
+      theory_id: 12135
+    - title: Functions and arguments
+      theory_id: 12188
     - title: Local repository
       theory_id: 10901
     - title: Working with remote repository
       theory_id: 12299
+    - title: IP
+      theory_id: 13662
+    - title: Explore folders and files
+      theory_id: 12495
+    - title: SSH
+      theory_id: 19129
+    - title: "Introduction to docker, installation"
+      theory_id: 15850
+    - title: Run the "hello-world" docker container
+      theory_id: 16020
+    - title: Basic operations with a container
+      theory_id: 17573
+    - title: Docker build and docker tag
+      theory_id: 23950
+    - title: "Dockerfile (FROM, LABEL, CMD, ENTRYPOINT)"
+      theory_id: 24322
+    - title: "Dockerfile (RUN, SHELL)"
+      theory_id: 25768
+    - title: Files
+      theory_id: 13025
+    - title: Introduction to Linux
+      theory_id: 9526
+    - title: Containers
+      theory_id: 15082
   1:
     - title: Fork and pull request
       theory_id: 4803
